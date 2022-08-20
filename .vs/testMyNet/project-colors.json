@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21ac681a-02d3-4f01-8284-49f276652ced": {
+      "ProjectGuid": "21ac681a-02d3-4f01-8284-49f276652ced",
+      "DisplayName": "Rt.DbLayer",
+      "ColorIndex": 0
+    },
+    "20c381ab-f149-4524-b013-d3ad0a61827e": {
+      "ProjectGuid": "20c381ab-f149-4524-b013-d3ad0a61827e",
+      "DisplayName": "Service",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

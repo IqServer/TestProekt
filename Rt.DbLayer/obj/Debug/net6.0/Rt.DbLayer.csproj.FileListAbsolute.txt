@@ -1,0 +1,14 @@
+C:\Users\dehantor\testMyNet\Rt.DbLayer\bin\Debug\net6.0\Rt.DbLayer.deps.json
+C:\Users\dehantor\testMyNet\Rt.DbLayer\bin\Debug\net6.0\Rt.DbLayer.dll
+C:\Users\dehantor\testMyNet\Rt.DbLayer\bin\Debug\net6.0\Rt.DbLayer.pdb
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.csproj.AssemblyReference.cache
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.AssemblyInfoInputs.cache
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.AssemblyInfo.cs
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.csproj.CoreCompileInputs.cache
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.dll
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.pdb
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\ref\Rt.DbLayer.dll
+C:\Users\dehantor\testMyNet\Rt.Dblayer\obj\Debug\net6.0\refint\Rt.DbLayer.dll
+C:\Users\dehantor\testMyNet\Rt.DbLayer\bin\Debug\net6.0\Rt.DbLayer.runtimeconfig.json
+C:\Users\dehantor\testMyNet\Rt.DbLayer\obj\Debug\net6.0\Rt.DbLayer.genruntimeconfig.cache
