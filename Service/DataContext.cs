@@ -9,14 +9,14 @@ public class DataContext:DbContext
         {
         }
 
-        public DbSet<User>? Users { get; set; }
-        public DbSet<Student>? Students { get; set; }
+
 
         public void CreateBDNew()
         {
             Database.EnsureDeleted();
             Database.EnsureCreated();
         }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
